@@ -42,7 +42,7 @@ nav>a{
     text-decoration: none;
     color: #FFFFFF;
     font-weight: bold;
-    margin-right: 30px;
+    margin-right: 15px;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
@@ -82,8 +82,9 @@ section#noticias > p{
 }    
 #a1{
     text-decoration: none;
-    color: #64B5F6;
+    color: #ff9900ee;
     font-weight: bold;
+    background-color: #f7cf6156;
 }
 
 #a1:hover{
