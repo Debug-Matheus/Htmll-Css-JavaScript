@@ -39,6 +39,7 @@ header > p{
     color: white;
     font-family:  Arial, Helvetica, sans-serif;
     font-size: 16px;
+    margin-bottom: 40px;
     
     
 }
@@ -50,16 +51,29 @@ nav>a{
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    transition-duration: 0.5s;
+    border-radius: 30px;
     
 }
 nav>a:hover{
     text-decoration: none;
     background-color: #64B5F6;
+    color: #081826;
     border-radius: 30px;
-    
 }
 nav>a:active{
     color: lightsalmon;
+}
+img{
+    width: 100%;
+}
+img#bugdroid{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+strongo{
+    color: #ff9900;
 }
 section#noticias{
     background-color: #333;
@@ -110,64 +124,40 @@ section#noticias> h2{
     font-size: 18px;
     
 }
-#videoweb{
-    
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    margin-bottom: 12px;
-}   
-article#borda1{
+div.videoweb{
+    background-color: #E0E0E0;
+    margin: 0px -15px 30px -15px;
+    padding: 20px;
+    padding-bottom: 45%;
+    position: relative;
+}
+div.videoweb > iframe {
+    border-radius: 10px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+aside{
+    background-image: linear-gradient(to top,#283493e3,#64b4f6e1);
+    border-radius: 10px 10px 0px 0px;
+}
+aside > h3{
     background-color: #366ea0;
-    width: 550px;
-    height: 35px;
-    border-radius: 10px 10px 0px 0px;  
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: -15px;
-    margin-left: 5px;
-    
+    color: white;
+    padding: 5px;
+    margin: -10px 0px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
 }
-article#borda1 > h4{
-    font-family: 'bison',Arial, Helvetica, sans-serif;
-    padding: 8px;
-    font-size: 15px;
-    color: #FFFFFF;
-    margin-left: -20px;
-}
-article#borda2{
-    background-image: linear-gradient(to top, #283493e3,#64b4f6e1);
-    padding: 1px;
-    margin-top: 0px;
-    font-size: 15px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-right:5px;
-    border-radius:0px 0px 10px 10px;  
-    margin-left: 5px;
-}
-
-article#borda2>p{
+aside > p{
+    text-indent: 30px;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
-    text-indent: 20px;
-    font-size: 14px;
-    color: #E0E0E0;
 }
-div >ul{
-    list-style-type: none;
-    padding: 0
-}        
-.check-mark {
-    margin-right: 5px;
-}    
-.list-container {
-    display: flex;
-    justify-content: space-between; 
-}
-
-li{
-    margin-bottom: 5px;  
+ul{
+    columns: 2;
+    list-style-type: '\1F5F8\00A0\00A0';
 }
 footer{
     background-image: linear-gradient(to right, #283493a6,#64b4f6bd);
