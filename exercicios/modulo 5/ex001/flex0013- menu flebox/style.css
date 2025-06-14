@@ -13,6 +13,7 @@ body{
     width: 100vw;
 }
 header{
+    display: flex;
     background-color: gray;
     color: white;
     padding: 10px;
@@ -22,6 +23,21 @@ header> h1{
 }
 header>nav{
     border: 1px dotted black    
+}
+header > nav > a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+header > nav > a:hover{
+    background-color: white;
+    color: black;
+    transition: background-color .5s;
 }
 main{
     background-color: white;
