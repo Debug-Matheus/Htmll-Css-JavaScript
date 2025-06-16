@@ -22,17 +22,25 @@ header{
     align-items: center;
     
 }
+span#burguer{
+    display: none
+}
 header> h1{
-    border: 1px dotted black;
+    /* border: 1px dotted black; */
     flex: 0 0 200px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 header>nav{
-    border: 1px dotted black ; 
+    /* border: 1px dotted black ;  */
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
 }
+nav#opcoes{
+    display: block;
+}
 header > nav > a{
+    display: inline-block;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -55,3 +63,4 @@ main{
     border-radius: 10px;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.144);
 }
+
