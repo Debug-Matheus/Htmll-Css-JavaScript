@@ -83,5 +83,73 @@ O curso foi composto por **muita teoria**, **diversas práticas** e **projetos r
   - Unidades relativas (`%`, `em`, `rem`, `vh`, `vw`)  
   - **Media Queries** para diferentes dispositivos
 
+## 📂 Projetos Desenvolvidos  
+
+Durante o curso foram realizados diversos **projetos práticos**, aplicando todo o conteúdo de **HTML5** e **CSS3** aprendido.  
+Cada projeto abordou conceitos específicos, como **responsividade, formulários, tabelas, layouts modernos, iframes, media queries, login pages** e até **portfólios completos**.  
+Esses exercícios ajudaram a reforçar a **teoria**, colocar os **conceitos em prática** e criar **páginas reais** com design responsivo e organizado.  
+
+Abaixo estão os projetos com seus respectivos links e prévias:
+
+---
+
+### [Projeto Cordel](https://github.com/Debug-Matheus/projeto-cordel)  
+![Preview do Projeto Cordel](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%201.PNG?raw=true)  
+
+---
+
+### [Projeto Android - Parte 1](https://github.com/Debug-Matheus/projeto-android)  
+![Preview do Projeto Android 1](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Android - Parte 2](https://github.com/Debug-Matheus/projeto-android2)  
+![Preview do Projeto Android 2](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Social](https://github.com/Debug-Matheus/projeto-social)  
+![Preview do Projeto Social](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Redes Sociais](https://github.com/Debug-Matheus/projeto-redes-sociais)  
+![Preview do Projeto Redes Sociais](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Media Query Iframe](https://github.com/Debug-Matheus/projeto-mediaquery-iframe)  
+![Preview do Projeto Media Query Iframe](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Planos Academia](https://github.com/Debug-Matheus/projeto-planos-academia)  
+![Preview do Projeto Planos Academia](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Login 1](https://github.com/Debug-Matheus/projeto-login)  
+![Preview do Projeto Login 1](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Login 2](https://github.com/Debug-Matheus/projeto-login-2)  
+![Preview do Projeto Login 2](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Login 3](https://github.com/Debug-Matheus/projeto-login3)  
+![Preview do Projeto Login 3](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Página de Venda Grid Layout](https://github.com/Debug-Matheus/desafio-pagina-grid-layout)  
+![Preview do Projeto Página Grid](coloque-aqui-o-link-da-imagem)  
+
+---
+
+### [Projeto Portfólio](https://github.com/Debug-Matheus/projeto-portfolio)  
+![Preview do Projeto Portfólio](coloque-aqui-o-link-da-imagem)  
+
 
 
