@@ -99,56 +99,57 @@ Abaixo estão os projetos com seus respectivos links e prévias:
 ---
 
 ### [Projeto Android - Parte 1](https://github.com/Debug-Matheus/projeto-android)  
-![Preview do Projeto Android 1](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Android 1](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%203.PNG?raw=true)  
 
 ---
 
 ### [Projeto Android - Parte 2](https://github.com/Debug-Matheus/projeto-android2)  
-![Preview do Projeto Android 2](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Android 2](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%202.PNG?raw=truem)  
 
 ---
 
 ### [Projeto Social](https://github.com/Debug-Matheus/projeto-social)  
-![Preview do Projeto Social](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Social](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%204.PNG?raw=true)
 
 ---
 
 ### [Projeto Redes Sociais](https://github.com/Debug-Matheus/projeto-redes-sociais)  
-![Preview do Projeto Redes Sociais](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Redes Sociais](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%205.PNG?raw=true)  
 
 ---
 
 ### [Projeto Media Query Iframe](https://github.com/Debug-Matheus/projeto-mediaquery-iframe)  
-![Preview do Projeto Media Query Iframe](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Media Query Iframe](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%206.PNG?raw=true)  
 
 ---
 
 ### [Projeto Planos Academia](https://github.com/Debug-Matheus/projeto-planos-academia)  
-![Preview do Projeto Planos Academia](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Planos Academia](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%207.PNG?raw=true)  
 
 ---
 
 ### [Projeto Login 1](https://github.com/Debug-Matheus/projeto-login)  
-![Preview do Projeto Login 1](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Login 1](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%208.PNG?raw=true)  
 
 ---
 
 ### [Projeto Login 2](https://github.com/Debug-Matheus/projeto-login-2)  
-![Preview do Projeto Login 2](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Login 2](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%209.PNG?raw=true)  
 
 ---
 
 ### [Projeto Login 3](https://github.com/Debug-Matheus/projeto-login3)  
-![Preview do Projeto Login 3](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Login 3](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%2010.PNG?raw=true)  
 
 ---
 
 ### [Projeto Página de Venda Grid Layout](https://github.com/Debug-Matheus/desafio-pagina-grid-layout)  
-![Preview do Projeto Página Grid](coloque-aqui-o-link-da-imagem)  
+![Preview do Projeto Página Grid](https://github.com/Debug-Matheus/Htmll-Css-JavaScript/blob/main/images/projeto%2011.PNG?raw=true)  
 
 ---
 
-### [Projeto Portfólio](https://github.com/Debug-Matheus/projeto-portfolio)  
+### [Projeto Portfólio](https://github.com/Debug-Matheus/projeto-portfolio) 
+- Em andamento...  
 ![Preview do Projeto Portfólio](coloque-aqui-o-link-da-imagem)  
 
 
